@@ -1,4 +1,4 @@
-# https://leetcode.com/submissions/detail/652739314/gs
+# https://leetcode.com/submissions/detail/652739314/
 
 class Solution:
     def numberOfArithmeticSlices(self, nums: List[int]) -> int:
